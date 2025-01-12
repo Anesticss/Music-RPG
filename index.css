@@ -1,13 +1,16 @@
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(to right, #6a11cb, #2575fc);
+  background: rgb(51, 51, 51)
   color: white;
   text-align: center;
   padding: 20px;
   margin: 0;
 }
 
+player-container {
+  color: blueviolet;
 
+}
 h1 {
   font-size: 2em;
   margin-bottom: 20px;
